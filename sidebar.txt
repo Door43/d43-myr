@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myr:home|Door43 (myr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myr|d43-myr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myr/archive/master.zip|d43-myr.zip]]
+
+**Recent Changes**
+{{changes>ns = myr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myr|Ethnologue data]]
+
